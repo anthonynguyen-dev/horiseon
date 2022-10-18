@@ -11,3 +11,4 @@ Pull Requests are welcome! If you have a suggestion that would make this better,
 Email: nguyen.dev@protonmail.com
 [Project Link](https://github.com/anthonynguyen-dev/horiseon)
 [Live Site](https://anthonynguyen-dev.github.io/horiseon/)
+![site image](</assets/images/Screenshot%20(2).png> "Screenshot of LiveSite")
